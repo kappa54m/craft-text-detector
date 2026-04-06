@@ -1,3 +1,6 @@
+Forked: https://github.com/norphiil/craft-text-detector_updated
+
+Original README:
 # CRAFT: Character-Region Awareness For Text detection
 
 <p align="center">
@@ -25,7 +28,7 @@ PyTorch implementation for CRAFT text detector that effectively detect text area
 - Install using pip:
 
 ```console
-pip install craft-text-detector-updated
+pip install git+https://github.com/kappa54m/craft-text-detector
 ```
 
 ### Basic Usage
